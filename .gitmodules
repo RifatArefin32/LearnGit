@@ -1,0 +1,3 @@
+[submodule "SubmodulePractice"]
+	path = SubmodulePractice
+	url = git@github.com:RifatArefin32/SubmodulePractice.git
